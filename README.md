@@ -1,5 +1,4 @@
-### Hi there 👋
-### Eu sou Eudes Gomes 🪕
+### Oiii eu sou Eudes Gomes, Desenvolvedor Backend, que ama Tecnologia e de resolver desafios cotidianos, tenho facilidade de trabalho em equipe, ser proativo e atencioso com os detalhes. Amo aprender e de sempre correr atrás de mais conhecimentos. 🪕
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
