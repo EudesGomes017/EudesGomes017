@@ -17,7 +17,7 @@
 </div>
   
   ##
-  devicons/devicon/icons/angularjs/angularjs-original.svg" />
+ 
   
   
   <div> 
