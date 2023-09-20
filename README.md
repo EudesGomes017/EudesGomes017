@@ -1,8 +1,8 @@
-**Sou um apaixonado Desenvolvedor de Software com um amor profundo pela tecnologia e uma paixão por solucionar desafios do dia a dia. Com um histórico de trabalho em equipe bem-sucedido, sou conhecido por minha proatividade e atenção aos detalhes.
+##Sou um apaixonado Desenvolvedor de Software com um amor profundo pela tecnologia e uma paixão por solucionar desafios do dia a dia. Com um histórico de trabalho em equipe bem-sucedido, sou conhecido por minha proatividade e atenção aos detalhes.
 
 Atualmente, estou perseguindo meu diploma em Análise e Desenvolvimento de Sistemas na Faculdade Estácio, onde estou expandindo meu conhecimento e aprimorando minhas habilidades técnicas. Minha jornada de aprendizado é contínua, e estou constantemente buscando novos conhecimentos e habilidades para me manter atualizado no mundo em constante evolução da tecnologia.
 
-Estou ansioso para conectar com profissionais da área, aprender com suas experiências e contribuir para projetos empolgantes. Se você está em busca de um colaborador apaixonado e dedicado que está sempre pronto para enfrentar novos desafios, estou à disposição para uma conversa..** 🪕
+Estou ansioso para conectar com profissionais da área, aprender com suas experiências e contribuir para projetos empolgantes. Se você está em busca de um colaborador apaixonado e dedicado que está sempre pronto para enfrentar novos desafios, estou à disposição para uma conversa.. 🪕
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
