@@ -1,8 +1,21 @@
-## Sou apaixonado por Desenvolvimento de Software com um amor pela tecnologia e uma paixão por solucionar desafios do dia a dia. Com um histórico de trabalho em equipe bem-sucedido, sou conhecido por minha proatividade e atenção aos detalhes.
+## Sou um profissional de Desenvolvimento de Sistemas com sólida formação acadêmica e experiência prática em desenvolvimento de software. Tenho um grande interesse em soluções tecnológicas inovadoras, focado em criar sistemas eficientes e de alto desempenho.
 
-##  Formado em Análise e Desenvolvimento de Sistemas na Faculdade Estácio. Minha jornada de aprendizado é contínua, e estou constantemente buscando novos conhecimentos e habilidades para me manter atualizado no mundo em constante evolução da tecnologia.
+## Possuo habilidades abrangentes no desenvolvimento full-stack, com experiência tanto no front-end (HTML5, CSS3, Bootstrap, Angular, JavaScript, TypeScript) quanto no back-end utilizando Java e o Spring Framework. Além disso, sou proficiente em banco de dados relacionais como PostgreSQL, SQL Server e MySQL.
 
-##  Estou ansioso para conectar com profissionais da área, aprender com suas experiências e contribuir para projetos empolgantes. 🪕
+## Tenho experiência prática com metodologias ágeis, como Scrum e Kanban, e sou um entusiasta do uso de contêineres Docker para garantir a flexibilidade e escalabilidade das aplicações. Também tenho vivência com cloud computing (AWS), proporcionando soluções eficientes em ambientes de nuvem.
+
+## Com uma sólida base em estrutura de dados e algoritmos, sempre busco aplicar as melhores práticas de desenvolvimento e otimização. Sou apaixonado por aprender novas tecnologias e desafios, sempre em busca de aprimorar minhas habilidades técnicas e colaborar com equipes para entregar projetos de qualidade.
+
+## Tecnologias e Ferramentas:
+
+## Front-End: HTML5, CSS3, Bootstrap, Angular, JavaScript, TypeScript
+## Back-End: Java, Spring Framework
+## Banco de Dados: PostgreSQL, SQL Server, MySQL
+## Controle de Versão: Git, GitHub
+## Contêineres: Docker
+## Cloud: AWS
+## Metodologias Ágeis: Scrum, Kanban
+## Estou sempre aberto a novas oportunidades para aplicar meu conhecimento e crescer profissionalmente. Se você busca alguém com paixão por tecnologia, comprometido com a qualidade e a melhoria contínua, ficarei feliz em conversar! 🪕
 
 <div align="center">
   <a href="https://github.com/EudesGomes017">
