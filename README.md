@@ -1,6 +1,6 @@
 ## Sou um profissional de Desenvolvimento de Sistemas com sólida formação acadêmica e experiência prática em desenvolvimento de software. Tenho um grande interesse em soluções tecnológicas inovadoras, focado em criar sistemas eficientes e de alto desempenho.
 
-## Possuo habilidades abrangentes no desenvolvimento full-stack, com experiência tanto no front-end (HTML5, CSS3, Bootstrap, Angular, JavaScript, TypeScript) quanto no back-end utilizando Java e o Spring Framework. Além disso, sou proficiente em banco de dados relacionais como  PostgreSQL e PLSQL Oracle.
+## Possuo habilidades abrangentes no desenvolvimento full-stack, com experiência tanto no front-end (HTML5, CSS3, Bootstrap, Angular, JavaScript, TypeScript) quanto no back-end utilizando Java e o Spring Framework. Além disso, sou proficiente em banco de dados relacionais como  PL/pgSQL PostgreSQL e PLSQL Oracle.
 
 ## Tenho experiência prática com metodologias ágeis, como Scrum e Kanban, e sou um entusiasta do uso de contêineres Docker para garantir a flexibilidade e escalabilidade das aplicações. Também tenho vivência com cloud computing (AWS), proporcionando soluções eficientes em ambientes de nuvem.
 
