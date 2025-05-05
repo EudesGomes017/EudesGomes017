@@ -1,45 +1,69 @@
-## Sou um profissional de Desenvolvimento de Sistemas com sólida formação acadêmica e experiência prática em desenvolvimento de software. Tenho um grande interesse em soluções tecnológicas inovadoras, focado em criar sistemas eficientes e de alto desempenho.
+Eudes Gomes
+Desenvolvedor Full-Stack | Java | Spring | React | Next.js | PostgreSQL
+<div align="center"> <a href="https://github.com/EudesGomes017"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EudesGomes017&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EudesGomes017&layout=compact&langs_count=7&theme=dark"/> </a> </div>
+👨‍💻 Sobre Mim
+Profissional de Desenvolvimento de Sistemas com sólida experiência em projetos full-stack, combinando:
+✔ Back-end robusto (Java/Spring) com front-end moderno (React/Next.js)
+✔ Bancos de dados relacionais e avançados (PostgreSQL, Oracle)
+✔ Arquitetura escalável com Docker e AWS
+✔ Metodologias Ágeis (Scrum/Kanban)
 
-## Possuo habilidades abrangentes no desenvolvimento full-stack, com experiência tanto no front-end (HTML5, CSS3, Bootstrap, Angular, JavaScript, TypeScript) quanto no back-end utilizando Java e o Spring Framework. Além disso, sou proficiente em banco de dados relacionais como  PL/pgSQL Postgres e PLSQL Oracle.
+Destaques:
 
-## Tenho experiência prática com metodologias ágeis, como Scrum e Kanban, e sou um entusiasta do uso de contêineres Docker para garantir a flexibilidade e escalabilidade das aplicações. Também tenho vivência com cloud computing (AWS), proporcionando soluções eficientes em ambientes de nuvem.
+🚀 Especialista em soluções de alto desempenho
 
-## Com uma sólida base em estrutura de dados e algoritmos, sempre busco aplicar as melhores práticas de desenvolvimento e otimização. Sou apaixonado por aprender novas tecnologias e desafios, sempre em busca de aprimorar minhas habilidades técnicas e colaborar com equipes para entregar projetos de qualidade.
+💡 Apaixonado por boas práticas (Clean Code, SOLID, TDD)
 
-## Tecnologias e Ferramentas:
+🌱 Constantemente aprendendo novas tecnologias
 
-## Front-End: HTML5, CSS3, Bootstrap, Angular, JavaScript, TypeScript
-## Back-End: Java, Spring Framework
-## Banco de Dados: PostgreSQL, SQL Server, MySQL
-## Controle de Versão: Git, GitHub
-## Contêineres: Docker
-## Cloud: AWS
-## Metodologias Ágeis: Scrum, Kanban
-## Estou sempre aberto a novas oportunidades para aplicar meu conhecimento e crescer profissionalmente. Se você busca alguém com paixão por tecnologia, comprometido com a qualidade e a melhoria contínua, ficarei feliz em conversar! 🪕
+🛠 Stack Tecnológica
+Front-End & Mobile
+Tecnologia	Experiência
+React.js	Componentização avançada, Hooks, Context API
+Next.js	SSR, SSG, API Routes, Otimização SEO
+TypeScript	Tipagem estática, Interfaces avançadas
+Angular	Componentes, RxJS, Gestão de Estado
+HTML5/CSS3	Layouts responsivos, Acessibilidade
+Tailwind CSS	Estilização utilitária
+Back-End
+Tecnologia	Experiência
+Java	Spring Boot, JPA, Microsserviços
+Node.js	APIs RESTful, Autenticação JWT
+Prisma	ORM type-safe, Migrações
+Spring	Security, Cloud, Batch
+Banco de Dados
+Tecnologia	Experiência
+PostgreSQL	PL/pgSQL, Otimização de queries
+Oracle	PL/SQL, Modelagem avançada
+MySQL	Índices, Transações ACID
+DevOps & Cloud
+Tecnologia	Experiência
+Docker	Containers, Docker Compose
+AWS	EC2, S3, RDS, Lambda
+Git/GitHub	Versionamento, CI/CD
+📌 Projetos Destacados
+Sistema de Gestão de Restaurantes
 
-<div align="center">
-  <a href="https://github.com/EudesGomes017">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EudesGomes017&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EudesGomes017&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
+Next.js + Prisma + PostgreSQL
 
-  <img align="center" alt="Eudes-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Eudes-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" />
- 
-  <img align="center" alt="Eudes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eudes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eudes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+Controle de pedidos em tempo real
 
-  <div> 
-  <a href = "mailto:eudesgomes017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eudes-gomes-1b3b94b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+Repositório | Demo
 
-</div>
-  
-  
- 
-  
-  
+Plataforma E-commerce
+
+React + Spring Boot + Oracle
+
+Integração com pagamentos (Stripe)
+
+📚 Certificações & Formação
+Graduação em Sistemas de Informação
+
+AWS Certified Cloud Practitioner (em andamento)
+
+Scrum Foundation Certified
+
+📫 Contato
+<div align="center"> <a href="mailto:eudesgomes017@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/eudes-gomes-1b3b94b5/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+<div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </div>
+✨ Disponível para colaborações e novos desafios!
