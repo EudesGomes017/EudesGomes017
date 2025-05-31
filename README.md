@@ -46,8 +46,6 @@ DevOps & Cloud
 <div align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </div>
 Docker: Containers e Docker Compose
 
-AWS: EC2, S3, RDS
-
 Git/GitHub: CI/CD e Versionamento
 
 📌 Projetos Destacados
@@ -65,10 +63,6 @@ Integração com Stripe para pagamentos
 
 📚 Formação & Certificações
 Graduação em Análise e Desenvolvimento de Sistemas
-
-AWS Certified Cloud Practitioner (em andamento)
-
-Scrum Foundation Certified
 
 📫 Contato
 <div align="center"> <a href="mailto:eudesgomes017@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/eudes-gomes-1b3b94b5/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
