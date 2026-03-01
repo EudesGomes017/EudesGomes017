@@ -62,7 +62,7 @@ Angular + Spring Boot + PostgreSQL
 Integração com Stripe para pagamentos
 
 📚 Formação & Certificações
-Graduação em Análise e Desenvolvimento de Sistemas
+Graduação em Análise e Desenvolvimento de Sistemas e Pós-Gradução em Engenharia de Software.
 
 📫 Contato
 <div <a href="https://www.linkedin.com/in/eudes-gomes-1b3b94b5/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
