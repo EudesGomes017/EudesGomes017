@@ -37,7 +37,7 @@ Node.js: APIs RESTful, Autenticação JWT
 Prisma: ORM type-safe, Migrações
 
 Banco de Dados
-<div align="center"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> https://img.shields.io/badge/MongoDb-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white </div>
+<div align="center"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDb-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></div>
 PostgreSQL: PL/pgSQL, Otimização de queries
 
 MySQL/SQL Server: Transações ACID, Índices
