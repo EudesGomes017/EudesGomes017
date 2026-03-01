@@ -43,7 +43,7 @@ PostgreSQL: PL/pgSQL, Otimização de queries
 MySQL/SQL Server: Transações ACID, Índices
 
 DevOps & Cloud
-<div align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </div>
+<div align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> </div>
 Docker: Containers e Docker Compose
 
 Git/GitHub: CI/CD e Versionamento
