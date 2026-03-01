@@ -65,5 +65,5 @@ Integração com Stripe para pagamentos
 Graduação em Análise e Desenvolvimento de Sistemas
 
 📫 Contato
-<div align="center"> <a href="mailto:eudesgomes017@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/eudes-gomes-1b3b94b5/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+<div</a> <a href="https://www.linkedin.com/in/eudes-gomes-1b3b94b5/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
 ✨ Disponível para colaborações e novos desafios!
