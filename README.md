@@ -1,5 +1,5 @@
 Eudes Gomes
-Desenvolvedor Full-Stack | Java | Spring | Angular | React | Next.js | PostgreSQL
+Desenvolvedor Full-Stack | Java | Spring | Angular | React | PostgreSQL | MongoDb
 <div align="center"> <a href="https://github.com/EudesGomes017"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EudesGomes017&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EudesGomes017&layout=compact&langs_count=7&theme=dark"/> </a> </div>
 👨‍💻 Sobre Mim
 Profissional de Desenvolvimento de Sistemas com experiência em projetos full-stack, especializado em:
