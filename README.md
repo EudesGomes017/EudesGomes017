@@ -25,12 +25,8 @@ TypeScript: Tipagem estática avançada
 Tailwind CSS: Estilização utilitária
 
 Back-End
-<div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> </div>
+<div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> </div>
 Java/Spring: Spring Boot, JPA, Microsserviços
-
-Node.js: APIs RESTful, Autenticação JWT
-
-Prisma: ORM type-safe, Migrações
 
 Banco de Dados
 <div align="center"> 
