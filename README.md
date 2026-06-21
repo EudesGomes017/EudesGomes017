@@ -3,8 +3,8 @@ Desenvolvedor Full-Stack | Java | Spring | Angular | Python | PostgreSQL | Mongo
 <div align="center"> <a href="https://github.com/EudesGomes017"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EudesGomes017&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EudesGomes017&layout=compact&langs_count=7&theme=dark"/> </a> </div>
 👨‍💻 Sobre Mim
 Profissional de Desenvolvimento de Sistemas com experiência em projetos full-stack, especializado em:
-✔ Front-end moderno: Angular, React e Next.js
-✔ Back-end robusto: Java/Spring e Node.js
+✔ Front-end moderno: Angular
+✔ Back-end robusto: Java/Spring e Python
 ✔ Bancos de dados: PostgreSQL, MySQL e SQL Server
 ✔ Arquitetura escalável: Docker e AWS
 ✔ Metodologias Ágeis: Scrum e Kanban
@@ -18,11 +18,7 @@ Destaques:
 🌱 Aprendizado contínuo de novas tecnologias
 
 🛠 Stack Tecnológica
-Front-End & Mobile
-<div align="center"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/> </div>
 Angular: Componentes, RxJS, Gestão de Estado
-
-React/Next.js: SSR, SSG, API Routes
 
 TypeScript: Tipagem estática avançada
 
