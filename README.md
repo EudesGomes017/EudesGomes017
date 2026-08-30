@@ -2,27 +2,26 @@ Eudes Gomes
 Desenvolvedor Full-Stack | Java | Spring | Angular | Python | PostgreSQL | MongoDb
 <div align="center"> <a href="https://github.com/EudesGomes017"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EudesGomes017&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EudesGomes017&layout=compact&langs_count=7&theme=dark"/> </a> </div>
 👨‍💻 Sobre Mim
-Profissional de Desenvolvimento de Sistemas com experiência em projetos full-stack, especializado em:
-✔ Front-end moderno: Angular
-✔ Back-end robusto: Java/Spring e Python
-✔ Bancos de dados: PostgreSQL, MySQL e SQL Server
-✔ Arquitetura escalável: Docker e AWS
-✔ Metodologias Ágeis: Scrum e Kanban
+Sou Desenvolvedor FullStack com atuação no desenvolvimento e evolução de sistemas de meios de pagamento e processamento transacional, abrangendo ambientes e-commerce e físico, com experiência em Java, Kotlin, Spring e Angular.
 
-Destaques:
+Atuo no desenvolvimento de aplicações distribuídas, APIs REST e microsserviços, trabalhando com fluxos de pagamento, integrações com parceiros externos, mensageria, processamento assíncrono, segurança, resiliência e observabilidade.
 
-🚀 Desenvolvimento de soluções performáticas e escaláveis
+Tenho experiência com arquiteturas monolíticas e microsserviços, aplicando princípios como Clean Architecture, SOLID e DDD, além de práticas voltadas à construção de sistemas escaláveis, disponíveis e de fácil manutenção.
+No back-end, trabalho principalmente com Java, Kotlin e ecossistema Spring, incluindo Spring Boot, Spring Security, Spring Data JPA e Spring Cloud. Também possuo experiência no desenvolvimento front-end com Angular, TypeScript, JavaScript, HTML5 e CSS3.
 
-💡 Aplicação de boas práticas: Clean Code, SOLID e TDD
+Participei de iniciativas de modernização tecnológica e migração de aplicações, incluindo evolução de Java 8 para Java 21, atualização de versões do ecossistema Spring e adoção de Kotlin.
+Também possuo experiência com Kafka e RabbitMQ, PostgreSQL, Oracle, MongoDB, Docker, Kubernetes, AWS, CI/CD, Git, GitHub e GitLab.
 
-🌱 Aprendizado contínuo de novas tecnologias
-
-🛠 Stack Tecnológica
-Angular: Componentes, RxJS, Gestão de Estado
-
-TypeScript: Tipagem estática avançada
-
-Tailwind CSS: Estilização utilitária
+Principais competências:
+• Back-End: Java, Kotlin, Spring Boot, Spring Security, Spring Data JPA, Spring Cloud
+• Front-End: Angular, TypeScript, JavaScript
+• Arquitetura: Microsserviços, Clean Architecture, SOLID, DDD
+• Integrações: APIs REST, OAuth2, JWT, integrações com sistemas externos
+• Mensageria: Kafka, RabbitMQ
+• Banco de Dados: PostgreSQL, Oracle, MongoDB
+• DevOps & Cloud: Docker, Kubernetes, AWS, CI/CD
+• Domínio: Meios de Pagamento, E-commerce, POS/TEF, Pix, Cartões, Gateways, Antifraude e Recorrência
+• Metodologias: Scrum, Kanban
 
 Back-End
 <div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> </div>
