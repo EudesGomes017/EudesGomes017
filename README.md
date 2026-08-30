@@ -1,6 +1,6 @@
 Eudes Gomes
-Desenvolvedor Full-Stack | Java | Spring | Angular | Python | PostgreSQL | MongoDb
-<div align="center"> <a href="https://github.com/EudesGomes017"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EudesGomes017&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EudesGomes017&layout=compact&langs_count=7&theme=dark"/> </a> </div>
+Desenvolvedor Full-Stack | Java | Kotlin | Spring | Angular | PostgreSQL | MongoDb
+
 👨‍💻 Sobre Mim
 Sou Desenvolvedor FullStack com atuação no desenvolvimento e evolução de sistemas de meios de pagamento e processamento transacional, abrangendo ambientes e-commerce e físico, com experiência em Java, Kotlin, Spring e Angular.
 
